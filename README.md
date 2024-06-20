@@ -1,4 +1,4 @@
-# Reproduction du jeu Otello en Python sur terminal.
+# Reproduction du jeu Otello en Python sur terminal
 ## Installation
  Il faut installer la librairie tabulate (pip install tabulate).
 ## Lancement du jeu
