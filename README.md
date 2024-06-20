@@ -1,2 +1,4 @@
-# Local
-# Just a little project of an otello with green and red pawns.
+# Jeu Local à deux joueurs
+# Reproduction du jeu Otello en Python sur terminal.
+# Il faut installer la librairie tabulate (pip install tabulate).
+# Pour jouer, il suffit de lancer le script .py.
